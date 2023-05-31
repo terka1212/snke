@@ -230,6 +230,7 @@ function Restart(){
   endMenu.style.display="none";
   
   Start();
+  
 }
 
 function SetScore(score)
